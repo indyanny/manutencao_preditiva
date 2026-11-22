@@ -76,6 +76,12 @@ O dashboard abrirá automaticamente em: http://localhost:8501
 | Pandas / NumPy | Manipulação de dados |
 | Plotly | Gráficos interativos |
 
+## 🔗 Acesse o Dashboard
+
+👉 **[Abrir o app ao vivo](https://manutencao-preditiva-indyanny.streamlit.app/)**
+
+Link direto: https://manutencao-preditiva-indyanny.streamlit.app/
+
 ### Autora
 
 Indyanny Rodrigues Peixinho — FAESA, Vitória – ES, 2026
